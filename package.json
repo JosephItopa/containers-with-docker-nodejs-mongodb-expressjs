@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/JosephItopa/containers-with-docker-nodejs-mongodb-expressjs/issues"
   },
-  "homepage": "https://github.com/JosephItopa/containers-with-docker-nodejs-mongodb-expressjs#readme"
+  "homepage": "https://github.com/JosephItopa/containers-with-docker-nodejs-mongodb-expressjs#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
 }
