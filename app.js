@@ -13,11 +13,6 @@ app.use(express.urlencoded({ extended: true }));
 // Serve static files (CSS, JS, Images) from the "public" directory
 app.use(express.static(path.join(__dirname, 'public')));
 
-// (Optional) Configure Template Engine - e.g., EJS
-// Uncomment the lines below if you install ejs: npm install ejs
-// app.set('view engine', 'ejs');
-// app.set('views', path.join(__dirname, 'views'));
-
 // Root Route
 app.get('/', (req, res) => {
     // If using a template engine: res.render('index', { title: 'Home' });
