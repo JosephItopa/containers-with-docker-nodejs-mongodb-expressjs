@@ -1,0 +1,21 @@
+{
+  "name": "containers-with-docker-nodejs-mongodb-expressjs",
+  "version": "1.0.0",
+  "description": "- Docker - Nodejs - MongoDB - MongoExpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephItopa/containers-with-docker-nodejs-mongodb-expressjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JosephItopa/containers-with-docker-nodejs-mongodb-expressjs/issues"
+  },
+  "homepage": "https://github.com/JosephItopa/containers-with-docker-nodejs-mongodb-expressjs#readme"
+}
